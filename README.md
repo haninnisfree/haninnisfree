@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=Apple&logoColor=white">
 <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+<img src="https://img.shields.io/badge/leagueoflegends-C28F2C?style=for-the-badge&logo=leagueoflegends&logoColor=white">
