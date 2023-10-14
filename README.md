@@ -22,12 +22,12 @@
 
 <h3 align="center">⚡️ Contact Me ⚡️</h3>
 <p align="center">
-  <a href="mailto:dgh06008@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+  <a href="mailto:dgh06008@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dlsgml7343@gmail.com"/></a>
 </p>
 
 <h3 align="center">📚 certificate 📚</h3>
 <p align="center">
- SQLD 
+ SQLD, Adsp, Big Data Analysis Article, a social research analys
 </p>
 
 <div align=left>
