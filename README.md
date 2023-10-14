@@ -1,6 +1,4 @@
-### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛&fontAlign=70)
 
 <!--
 **haninnisfree/haninnisfree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,7 +31,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">👋 It's me! 👋</h3>
 <p align="center">
-  🌱Hi, I'm Young Sang Yoo, a growing data-analyst🌱
+  🌱Hi, I'm Haninnisfree, a growing data-analyst🌱
 </p>
 
 
