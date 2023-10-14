@@ -27,11 +27,12 @@
 
 <h3 align="center">📚 certificate 📚</h3>
 <p align="center">
- SQLD
- Adsp 
- Big Data
+ SQLD<br>
+ Adsp<br> 
+ Big Data<br>
  social research analys
 </p>
+
 
 <div align=left>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=youngsang114&layout=compact">
