@@ -27,7 +27,10 @@
 
 <h3 align="center">📚 certificate 📚</h3>
 <p align="center">
- SQLD, Adsp, Big Data Analysis Article, a social research analys
+ SQLD
+ Adsp 
+ Big Data
+ social research analys
 </p>
 
 <div align=left>
