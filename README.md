@@ -8,7 +8,7 @@
 
 <h3 align="center">👋 It's me! 👋</h3>
 <p align="center">
-  🌱 Hi, I'm Young Sang Yoo, a growing data-analyst 🌱
+  🌱 Hi, I'm In Hee Han, a growing data-analyst 🌱
 </p>
 
 <h3 align="center">📚 Studying 📚</h3>
